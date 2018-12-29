@@ -64,4 +64,6 @@
 
 请Fork后使用支持 `\n` 换行符的文本编辑器编辑 *.txt 文件。例如 [VS Code](https://code.visualstudio.com/) 和 [NotePad++](https://notepad-plus-plus.org/download/) 。请勿使用Windows记事本，它目前暂不支持`\n`换行符。
 
+每份屏蔽词都分为简体中文和繁体中文两个版本。如果要进行修改，请将两边同步修改。[这里](http://ww.hao123.com/haoserver/jianfanzh.htm)是一个简单的在线简繁文字转换器。
+
 修改完成后请提交 Pull Request 并附上增加或删除这些屏蔽词的原因。
